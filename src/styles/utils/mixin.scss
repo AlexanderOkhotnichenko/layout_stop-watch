@@ -10,7 +10,7 @@
   transform-origin: bottom;
 }
 
-@mixin watch-hand-properties($width, $height, $background-color) {
+@mixin stopwatch-hand-properties($width, $height, $background-color) {
   width: #{$width};
   height: #{$height};
   background-color: #{$background-color};

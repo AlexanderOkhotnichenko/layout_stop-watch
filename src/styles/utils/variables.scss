@@ -1,17 +1,15 @@
-$watch-width: 80vmin;
-$watch-height: 80vmin;
+$stopwatch-width: 80vmin;
+$stopwatch-height: 80vmin;
 $color-black: #000;
-$watch-speed: 60s;
-$watch-speed-minute: $watch-speed * 60;
-$watch-steps-minute: 60;
 
-// watch properties
-$watch-second-width: 1.5vmin;
-$watch-second-height: 38vmin;
-$watch-second-background-color: #2c8000;
-$watch-minute-width: 3vmin;
-$watch-minute-height: 20vmin;
-$watch-minute-background-color: #0700ff;
-$watch-middle-circle-width: 5vmin;
-$watch-middle-circle-height: 5vmin;
-$watch-middle-circle-background-color: #f6a603;
+// stopwatch properties
+$stopwatch-steps-minute: 60;
+$stopwatch-second-width: 1.5vmin;
+$stopwatch-second-height: 38vmin;
+$stopwatch-second-background-color: #2c8000;
+$stopwatch-minute-width: 3vmin;
+$stopwatch-minute-height: 20vmin;
+$stopwatch-minute-background-color: #0700ff;
+$stopwatch-middle-circle-width: 5vmin;
+$stopwatch-middle-circle-height: 5vmin;
+$stopwatch-middle-circle-background-color: #f6a603;
